@@ -8,8 +8,8 @@
 
 * 开发工程文件一般都会另外建立仓库存放.地址会在下方列出.
 
-    * Octopress博客主页:http://hivan.me/
-    * 
+    * [Octopress博客主页](http://hivan.me/)
+    * [开始Maya吧 全教程](https://github.com/hivan/Project/tree/master/Maya%20Begin)
     * 
 
 **暂时就这么多说明,待续!**
